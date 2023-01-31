@@ -1,2 +1,0 @@
-Requirements analysis
-because the statement argued about the components that we need to implement and analysis how it works

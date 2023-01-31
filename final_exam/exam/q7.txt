@@ -1,3 +1,0 @@
-LBYL: Look before you leap
-C language
-In C, the compiler detects a number of errors including type errors.

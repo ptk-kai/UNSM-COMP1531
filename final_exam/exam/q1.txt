@@ -1,6 +1,0 @@
-Continuous integration:
-Practice of automating the integration of code changes from multiple contributors into a single software project.
-Example: merge other changed branch to master branch
-Continuous delivery:
-is where an automated deployment is triggered via manual human action. An example would be clicking "Deploy" on a gitlab pipeline.
-

@@ -1,4 +1,0 @@
-Maintenance
-Because the statement said we need to track the custumers use our product already in production
-and the frequency when the server go down, that is Maintenance, we want everthing works following our
-expectation
